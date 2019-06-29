@@ -20,6 +20,7 @@ h5,
 h6 {
   font-family: Georgia, Times, "Times New Roman", serif;
   color: #4aaaa5;
+  margin-bottom: 0px;
 }
 h2 {
   border-bottom: 3px solid #dddddd;
@@ -35,7 +36,9 @@ a:hover,
   color: #4aaaa5 !important;
   text-decoration: none;
 }
-
+.header-logo:hover {
+  color: #fff;
+}
 .image-container {
   position: relative;
   text-align: center;
