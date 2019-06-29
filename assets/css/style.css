@@ -39,6 +39,9 @@ a:hover,
 .header-logo:hover {
   color: #fff;
 }
+.navbar-collapse {
+  margin-left: 20px;
+}
 .image-container {
   position: relative;
   text-align: center;
